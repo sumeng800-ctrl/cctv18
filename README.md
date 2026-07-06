@@ -6,7 +6,7 @@
 这里是cctv18，一名业余安卓开发/内核技术爱好者。 ~~(不是什么频道)~~
 
 - 🔭 目前主攻方向：安卓/Linux内核源码开发，安卓自定义技术，内核编译自动化工具/流程优化
-- 🌱 擅长的语言：C / C++ / Shell / Python
+- 🌱 擅长的语言：C / C++ / Shell / Python / Typescript
 - ⚡ 参与开发维护的项目：[SukiSU Ultra](https://github.com/SukiSU-Ultra/SukiSU-Ultra), [ReSukiSU](https://github.com/ReSukiSU/ReSukiSU), [Baseband Guard](https://github.com/vc-teahouse/Baseband-guard)等
 - 📫 我的酷安ID：@cctv18_2
 
